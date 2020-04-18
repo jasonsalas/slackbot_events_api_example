@@ -1,2 +1,4 @@
-slackclient==1.2.1
-slackeventsapi==2.0.0
+slackclient
+slackeventsapi
+Flask>=1.1.1
+certifi
